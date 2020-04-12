@@ -41,7 +41,7 @@ section {
 }
 
 .fayaz {
-	background-image: url("files/Fayaz1a.JPG");
+	background-image: url("files/Fayaz1a.jpg");
 	background-position: center; 
 	background-repeat: no-repeat; 
 	background-size: cover;
@@ -62,17 +62,6 @@ section {
 .top {
 		display: none;
 	}
-
-/*.foto {
-	border-radius: 50%;
-	min-width: 170px;
-	min-height: 170px;
-	background-image: url("Fayaz3.JPG");	
-	background-position: center; 
- 	background-repeat: no-repeat; 
-  	background-size: cover;
-  	color: rgba(0,0,0,0);
-}*/
 
 /* About */
 #about .grid-wrapper {
